@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+.navigation{
+    align-items: center;
+    display: inline-block;
+    display: flex;
+
+    
+}
+header{
+    background-color: aqua;
+    width: auto;
+    padding-bottom: 0%;
+    
+
+}
